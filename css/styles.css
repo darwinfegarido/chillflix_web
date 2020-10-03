@@ -10104,6 +10104,7 @@ header.masthead {
   /* background: linear-gradient(to bottom, rgba(17, 16, 16, 0.8) 0%, rgba(26, 26, 26, 0.8) 100%), url("../assets/img/background_image.jpg"); */
   background-position: center;
   background-repeat: no-repeat;
+  position: fixed;
   /* background-attachment: scroll; */
   /* background-size: 100% 100%; */
 }
